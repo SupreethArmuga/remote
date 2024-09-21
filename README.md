@@ -1,6 +1,6 @@
 # remote
 This is a remote branch
- i am on a branch
-# test1 
-# test2
-# test3
+
+# EX 1 clone
+# EX 2 push
+# EX 3 merge
